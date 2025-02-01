@@ -1,6 +1,6 @@
 package java_methods_assignment;
 
-// HII
+// HII everyone
 public class Hello {
 
 	public static void main(String[] args) {
