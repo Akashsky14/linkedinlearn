@@ -1,5 +1,5 @@
 package java_methods_assignment;
-
+// Adding comments
 	public class Calculator {
 
 		static double value3;
